@@ -9,7 +9,7 @@ var cloudsGroup, cloudImage;
 var obstaclesGroup, obstacle1, obstacle2, obstacle3, obstacle4; 
 var score;
 var gameOverImg,restartImg
-var count = 0;
+var count;
 
 
 function preload(){
